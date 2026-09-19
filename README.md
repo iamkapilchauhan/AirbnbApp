@@ -229,7 +229,7 @@ http://localhost:8080
 
 ## 👨‍💻 Author
 
-**iamkapilchauhan**
+**Kapil Chauhan**
 
 🌐 GitHub: https://github.com/iamkapilchauhan
 
